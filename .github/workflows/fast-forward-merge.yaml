@@ -1,0 +1,37 @@
+name: Fast Forward Merge
+
+on:
+  pull_request_target:
+    types:
+      - labeled
+
+permissions:
+  contents: read
+
+jobs:
+  merge:
+    permissions:
+      contents: write  # for Git to git push
+    if: ${{ github.event.label.name == 'done' && github.event.pull_request.mergeable == true }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Harden the runner (Audit all outbound calls)
+        uses: step-security/harden-runner@bf7454d06d71f1098171f2acdf0cd4708d7b5920 # v2.20.0
+        with:
+          egress-policy: audit
+
+      - name: Check Out PR Target Branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.pull_request.base.ref }}
+          fetch-depth: 0 # fetches all history for all branches and tags
+      - name: Merge
+        env:
+          TOPIC_BRANCH: ${{ github.head_ref }}
+          BASE_BRANCH: ${{ github.event.pull_request.base.ref }}
+        run: |
+          git fetch origin $TOPIC_BRANCH
+          git checkout $BASE_BRANCH
+          git branch
+          git merge --ff-only origin/$TOPIC_BRANCH
+          git push origin $BASE_BRANCH
