@@ -26,14 +26,38 @@ Check out our CubeCOS user guide for introduction of the architecture, quick sta
 
 ### Meetings and recordings
 
-Everyone is welcome at our community call that runs every Thursday at 20:00 GMT+8.
+Join regular meetings open to everyone. These are great opportunities to learn, ask questions, and connect with other CubeCOS users and developers.
+
+#### Community Calls
+
+Developer meetings covering all things CubeCOS open source.
+
+|                 |                                                                                                                                                                                       |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| When            | Third Thursday of each month, 20:00 GMT+8                                                                                                                                                     |
+| Where           | [Google Meet](https://meet.google.com/eux-nkzk-bof)                                                                                                                                   |
+| Calendar        | [Community Calendar](https://calendar.google.com/calendar/embed?src=c_ad6c6ee5a9fc2ed400a582f4d73314eca41c7edae3b87802d31e1610034a602e%40group.calendar.google.com&ctz=Asia%2FTaipei) |
+| Host            | Brian Su ([@bigstack-brian-su](https://github.com/bigstack-brian-su))                                                                                                                 |
+| Notes           | [Meeting agenda and notes](https://docs.google.com/document/d/1cqWOOY9fxxqAYRuT1RBJZxMXUUlpNh-vMAdDE4qD6e8/edit?tab=t.0)                                                              |
+| Past Recordings | [Community Call Playlist](https://youtube.com/playlist?list=PLL_oubcsiDYw&si=sWa70BZMAfo1evUp)                                                                                        |
+
+#### Workshops
+
+Hands-on demos, workshops, Q&A sessions, and an open floor for community questions.
+
+|                 |                                                                                                                                                                                       |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| When            | Bi-weekly on Thursday, 16:00 GMT+8                                                                                                                                                     |
+| Where           | [Google Meet](https://meet.google.com/kiz-zgqo-ici)                                                                                                                                   |
+| Calendar        | [Community Calendar](https://calendar.google.com/calendar/embed?src=c_ad6c6ee5a9fc2ed400a582f4d73314eca41c7edae3b87802d31e1610034a602e%40group.calendar.google.com&ctz=Asia%2FTaipei) |
+| Host            | Brian Su ([@bigstack-brian-su](https://github.com/bigstack-brian-su))                                                                                                                 |
+| Notes           | [Meeting agenda and notes](https://docs.google.com/document/d/1cqWOOY9fxxqAYRuT1RBJZxMXUUlpNh-vMAdDE4qD6e8/edit?tab=t.auledtgqf09p)                                                              |
+| Past Recordings | [Community Call Playlist](https://youtube.com/playlist?list=PLDgWpwBmz3Ts&si=spN5k9LarieRku1e)                                                                                        |
 
 ## Inspiration
 
 This repository draws best practices and structural inspiration from the KubeVirt community repository, which sets a great example of open collaboration in cloud-native infrastructure.
 
-[License-Url]: https://www.apache.org/licenses/LICENSE-2.0
-[License-Image]: https://img.shields.io/badge/License-Apache2-blue.svg
 [Slack-Image]: https://img.shields.io/discord/1372094838089977887?logo=Slack
 [Slack-Url]: https://join.slack.com/t/cubecos/shared_invite/zt-2yalb3gmr-rETnY7SBxlgmBw7Gxac9tA
 [Discord-Image]: https://img.shields.io/discord/1372094838089977887?logo=discord
