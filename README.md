@@ -58,7 +58,7 @@ Hands-on demos, workshops, Q&A sessions, and an open floor for community questio
 
 This repository draws best practices and structural inspiration from the KubeVirt community repository, which sets a great example of open collaboration in cloud-native infrastructure.
 
-[Slack-Image]: https://img.shields.io/discord/1372094838089977887?logo=Slack
+[Slack-Image]: https://img.shields.io/badge/Slack-Join-4A154B.svg?logo=slack
 [Slack-Url]: https://join.slack.com/t/cubecos/shared_invite/zt-2yalb3gmr-rETnY7SBxlgmBw7Gxac9tA
 [Discord-Image]: https://img.shields.io/discord/1372094838089977887?logo=discord
 [Discord-Url]: https://discord.gg/VuMX4UhEFG
