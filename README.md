@@ -1,6 +1,6 @@
 # Community
 
-[![Slack][Slack-Image]][Slack-Url] [![Discord][Discord-Image]][Discord-Url] [![Docs][Docs-Image]][Docs-Url] [![Website][Website-Image]][Website-Url] [![Youtube][Youtube-Image]][Youtube-Url]  ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kubernetes/kubernetes?sort=semver)
+[![Slack][Slack-Image]][Slack-Url] [![Discord][Discord-Image]][Discord-Url] [![Docs][Docs-Image]][Docs-Url] [![Website][Website-Image]][Website-Url] [![Youtube][Youtube-Image]][Youtube-Url]
 
 Welcome to the CubeCOS Community repo! Here you will find all things community, including our meeting records, resources, upcoming events, and more.
 
@@ -26,7 +26,7 @@ Check out our CubeCOS user guide for introduction of the architecture, quick sta
 
 ### Meetings and recordings
 
-Join regular meetings open to everyone. These are great opportunities to learn, ask questions, and connect with other CubeCOS users and developers.
+Join regular meetings open to everyone. These are great opportunities to learn, ask questions, and connect with other CubeCOS users and developers. 
 
 #### Community Calls
 
@@ -66,5 +66,5 @@ This repository draws best practices and structural inspiration from the KubeVir
 [Docs-Url]: https://docs.bigstack.co
 [Website-Image]: https://img.shields.io/badge/web-view-blue.svg
 [Website-Url]: https://www.bigstack.co/
-[Youtube-Image]: https://img.shields.io/youtube/views/peTSzcAueEc?logo=youtube
+[Youtube-Image]:  https://img.shields.io/badge/YouTube-Watch-red.svg?logo=youtube
 [Youtube-Url]: https://www.youtube.com/@bigstacktech
