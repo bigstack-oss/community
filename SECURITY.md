@@ -12,7 +12,7 @@ If you think you have found a vulnerability in this repository, please report it
 
 Instead, report it using one of the following ways:
 
-- Report a [vulnerability](https://github.com/bigstack-oss/<repository_name>/security/advisories/new) directly via private vulnerability reporting on GitHub
+- Report a [vulnerability](https://github.com/bigstack-oss/community/security/advisories/new) directly via private vulnerability reporting on GitHub
 - Contact the [Bigstack Security Team](mailto:security@bigstack.co) via email
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
@@ -33,7 +33,7 @@ This information will help us triage your report more quickly.
 
 This policy applies to all open source projects developed, maintained, or hosted by Bigstack.
 
-For supported versions please refer to the [product lifecycle matrix](https://docs.bigstack.co/docs/cubecos/intro/product_lifecycle).
+For supported versions please refer to the [product lifecycle matrix](https://docs.bigstack.co/docs/cubecos/release/product-lifecycle).
 
 ## Thank You
 

@@ -4,7 +4,7 @@ This is an index of all the CubeCOS workshops that have been held so far.
 
 Full notes for all meetings are available in one shared document: **[CubeCOS community workshop notes](https://docs.google.com/document/d/1cqWOOY9fxxqAYRuT1RBJZxMXUUlpNh-vMAdDE4qD6e8/edit?tab=t.auledtgqf09p)**.
 
-All recordings are collected in the **[CubeCOS Workshop (Office hours) playlist]()** on YouTube.
+All recordings are collected in the **[CubeCOS Workshop (Office hours) playlist](https://www.youtube.com/playlist?list=PLDgWpwBmz3Ts)** on YouTube.
 
 ## When and where
 
@@ -24,6 +24,10 @@ Here are the details on how to join and how the community workshops are run.
 
 The table below maps each meeting date to its recording and lists the topics covered, so a specific discussion can be found without scrubbing through the playlist.
 
-| Date       | Recording                                                                       | Topics                    |
-| ---------- | ------------------------------------------------------------------------------- | ------------------------- |
-| 2026-08-20 | [Watch](https://www.youtube.com/watch?v=GJodIX3QurU&list=PLDgWpwBmz3Ts&index=2) | Deploy Your First Cluster |
+> [!NOTE]
+> For access to the shared slides, join the [cubecos-dev](https://groups.google.com/g/cubecos-dev) mailing list.
+
+| Date       | Topics                                                | Slides                                                                                       | Recordings                                                                      |
+| ---------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2026-08-20 | Deploy Your First Cluster                             | [PDF](https://drive.google.com/file/d/1wnhEnKuCsRR7noe0n6RKmtbbjwjhWm60/view?usp=drive_link) | [Watch](https://www.youtube.com/watch?v=GJodIX3QurU&list=PLDgWpwBmz3Ts&index=1) |
+| 2026-09-10 | Configuring GPU Passthrough, MIG, and vGPU on CubeCOS | [PDF](https://drive.google.com/file/d/1rvdna4R3O2IX8qaUkN7x02pJI_lBIw3c/view?usp=drive_link) | [Watch](https://www.youtube.com/watch?v=uIgRnIKcU4A&list=PLDgWpwBmz3Ts&index=2) |

@@ -4,7 +4,7 @@ This is an index of every CubeCOS community meeting held so far.
 
 Full notes for all meetings are available in one shared document: **[CubeCOS Community Meeting notes](https://docs.google.com/document/d/1cqWOOY9fxxqAYRuT1RBJZxMXUUlpNh-vMAdDE4qD6e8/edit?tab=t.0)**.
 
-All recordings are collected in the **[CubeCOS Community meetings playlist]()** on YouTube.
+All recordings are collected in the **[CubeCOS Community meetings playlist](https://www.youtube.com/watch?v=lt7XCy4vjCU&list=PLL_oubcsiDYw)** on YouTube.
 
 ## When and where
 
@@ -24,6 +24,10 @@ Here are the details on how to join and how the community meetings are run.
 
 The table below maps each meeting date to its recording and lists the topics covered, so a specific discussion can be found without scrubbing through the playlist.
 
-| Date       | Recording                                                 | Topics                                               |
-| ---------- | --------------------------------------------------------- | ---------------------------------------------------- |
-| 2026-08-20 | [Watch](https://youtu.be/lt7XCy4vjCU?si=fjCmLhVyIDx48QIb) | Introduction to CubeCOS: What is CubeCOS and WHy Now |
+> [!NOTE]
+> For access to the shared slides, join the [cubecos-dev](https://groups.google.com/g/cubecos-dev) mailing list.
+
+| Date       | Topics                                               | Slides                                                                                       | Recordings                                                                      |
+| ---------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2026-08-20 | Introduction to CubeCOS: What is CubeCOS and Why Now | [PDF](https://drive.google.com/file/d/1G9s64IlSevtPitPEesvEInVlM12kJIYA/view?usp=drive_link) | [Watch](https://www.youtube.com/watch?v=lt7XCy4vjCU&list=PLL_oubcsiDYw&index=1) |
+| 2026-09-16 | Your first contribution, start to finish             | [PDF]()                                                                                      | [Watch]()                                                                       |

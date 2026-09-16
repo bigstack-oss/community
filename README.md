@@ -20,8 +20,8 @@ Check out our CubeCOS user guide for introduction of the architecture, quick sta
 
 ### Community
 
-- [Slack](https://join.slack.com/t/cubecos/shared_invite/zt-2yalb3gmr-rETnY7SBxlgmBw7Gxac9tA)
-- [Discord](https://img.shields.io/badge/docs-view-green.svg?logo=docusaurus)
+- [Slack][Slack-Url]
+- [Discord][Discord-Url]
 - [Bigstack](https://www.bigstack.co/) - the creators and core maintainers of CubeCOS.
 
 ### Meetings and recordings
