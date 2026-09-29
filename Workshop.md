@@ -27,7 +27,8 @@ The table below maps each meeting date to its recording and lists the topics cov
 > [!NOTE]
 > For access to the shared slides, join the [cubecos-dev](https://groups.google.com/g/cubecos-dev) mailing list.
 
-| Date       | Topics                                                | Slides                                                                                       | Recordings                                                                      |
-| ---------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 2026-08-20 | Deploy Your First Cluster                             | [PDF](https://drive.google.com/file/d/1wnhEnKuCsRR7noe0n6RKmtbbjwjhWm60/view?usp=drive_link) | [Watch](https://www.youtube.com/watch?v=GJodIX3QurU&list=PLDgWpwBmz3Ts&index=1) |
-| 2026-09-10 | Configuring GPU Passthrough, MIG, and vGPU on CubeCOS | [PDF](https://drive.google.com/file/d/1rvdna4R3O2IX8qaUkN7x02pJI_lBIw3c/view?usp=drive_link) | [Watch](https://www.youtube.com/watch?v=uIgRnIKcU4A&list=PLDgWpwBmz3Ts&index=2) |
+| Date       | Topics                                                                   | Slides                                                                                       | Recordings                                                                      |
+| ---------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2026-08-20 | Deploy Your First Cluster                                                | [PDF](https://drive.google.com/file/d/1wnhEnKuCsRR7noe0n6RKmtbbjwjhWm60/view?usp=drive_link) | [Watch](https://www.youtube.com/watch?v=GJodIX3QurU&list=PLDgWpwBmz3Ts&index=1) |
+| 2026-09-10 | Configuring GPU Passthrough, MIG, and vGPU on CubeCOS                    | [PDF](https://drive.google.com/file/d/1rvdna4R3O2IX8qaUkN7x02pJI_lBIw3c/view?usp=drive_link) | [Watch](https://www.youtube.com/watch?v=uIgRnIKcU4A&list=PLDgWpwBmz3Ts&index=2) |
+| 2026-09-24 | Configure and use the CubeCOS SDN and deploy your first virtual firewall | [PDF](https://drive.google.com/file/d/1rymjOpaBC0zWY7nuGA9UrGO07vQs-Dqs/view?usp=drive_link) | [Watch](https://www.youtube.com/watch?v=uIgRnIKcU4A&list=PLDgWpwBmz3Ts&index=3) |
