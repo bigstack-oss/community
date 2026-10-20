@@ -27,7 +27,8 @@ The table below maps each meeting date to its recording and lists the topics cov
 > [!NOTE]
 > For access to the shared slides, join the [cubecos-dev](https://groups.google.com/g/cubecos-dev) mailing list.
 
-| Date       | Topics                                               | Slides                                                                                       | Recordings                                                                      |
-| ---------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 2026-08-20 | Introduction to CubeCOS: What is CubeCOS and Why Now | [PDF](https://drive.google.com/file/d/1G9s64IlSevtPitPEesvEInVlM12kJIYA/view?usp=drive_link) | [Watch](https://www.youtube.com/watch?v=lt7XCy4vjCU&list=PLL_oubcsiDYw&index=1) |
-| 2026-09-16 | Your first contribution, start to finish             | [PDF](https://drive.google.com/file/d/1O13qQaOXomB-J5_Dhjfvx8Tm86KZik6w/view?usp=drive_link) | [Watch](https://www.youtube.com/watch?v=TBqCp3A07So&list=PLL_oubcsiDYw&index=2) |
+| Date       | Topics                                                              | Slides                                                                                       | Recordings                                                                      |
+| ---------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2026-08-20 | Introduction to CubeCOS: What is CubeCOS and Why Now                | [PDF](https://drive.google.com/file/d/1G9s64IlSevtPitPEesvEInVlM12kJIYA/view?usp=drive_link) | [Watch](https://www.youtube.com/watch?v=lt7XCy4vjCU&list=PLL_oubcsiDYw&index=1) |
+| 2026-09-16 | Your first contribution, start to finish                            | [PDF](https://drive.google.com/file/d/1O13qQaOXomB-J5_Dhjfvx8Tm86KZik6w/view?usp=drive_link) | [Watch](https://www.youtube.com/watch?v=TBqCp3A07So&list=PLL_oubcsiDYw&index=2) |
+| 2026-10-22 | Introducing Lachesis, an eBPF-based network telemetry for OpenStack | [PDF]()                                                                                      | [Watch]()                                                                       |
